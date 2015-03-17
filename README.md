@@ -1,2 +1,0 @@
-# microblog
-Exemplo de microblog
